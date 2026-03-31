@@ -1,0 +1,9 @@
+body { font-family: 'Segoe UI', sans-serif; background-color: #fce4ec; margin: 0; padding: 10px; }
+.app-container { max-width: 500px; margin: auto; background: white; padding: 15px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+h2 { text-align: center; color: #d81b60; }
+.input-section input { width: 90%; padding: 10px; margin: 5px 0; border: 1px solid #f06292; border-radius: 5px; }
+button { width: 95%; padding: 12px; background-color: #d81b60; color: white; border: none; border-radius: 5px; font-weight: bold; cursor: pointer; }
+table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+th, td { border-bottom: 1px solid #ddd; padding: 10px; text-align: left; }
+th { background-color: #f8bbd0; }
+.delete-btn { background: #e53935; color: white; border: none; padding: 5px; border-radius: 3px; cursor: pointer; }
